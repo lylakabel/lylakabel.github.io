@@ -15,5 +15,5 @@
     * All kinds of artsy activities
   - Academically I am interested in computer engineering and/or cybersecurity. I am also open to exploring other fields that explore computers and math together. 
 ## Websites I Recommend
-  - [MSA Videos] (https://www.youtube.com/@MSA.official) - I love how these fun fictional and non-fictional stories because they are videos people can relate on a universal level while still being apealling.
-  - [Book Shopping] (https://www.barnesandnoble.com/) - Shopping for books is very comforting while making me happy and reading those books is a wonderful escape from reality. 
+  - [MSA Videos](https://www.youtube.com/@MSA.official) - I love how these fun fictional and non-fictional stories because they are videos people can relate on a universal level while still being apealling.
+  - [Book Shopping](https://www.barnesandnoble.com/) - Shopping for books is very comforting while making me happy and reading those books is a wonderful escape from reality. 
