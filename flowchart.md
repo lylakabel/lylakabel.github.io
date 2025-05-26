@@ -6,11 +6,11 @@ graph TD;
     D -- No --> E[Show Error Message and Prompt Again];
     E --> C;
     D -- Yes --> F{Is the Guess Correct?};
-    F -- Yes --> G[Display "Correct!"];
+    F -- Yes --> G[Correct!];
     G --> H[End];
     F -- No --> I{Is the Guess Too High?};
-    I -- Yes --> J[Display "Too High"];
-    I -- No --> K[Display "Too Low"];
+    I -- Yes --> J[Too High];
+    I -- No --> K[Too Low];
     J --> C;
     K --> C;
 ```
