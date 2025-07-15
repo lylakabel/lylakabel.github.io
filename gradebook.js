@@ -2,6 +2,7 @@
 function fetchGradeData() {
   // This function will query the PostgreSQL database and return grade data
   console.log("Fetching grade data...");
+  return []; // Return empty data for noe to avoid errors
 }
 
 // TODO Populate the table with grade data
